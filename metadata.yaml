@@ -1,0 +1,26 @@
+_repo: Trail-Tales_30320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gillilan, James David
+    gutenberg_agent_id: '34529'
+    url: http://www.gutenberg.org/2009/agents/34529
+description: ''
+gutenberg_issued: '2009-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30320'
+  lccn: '15018688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Northwestern States'
+- !lcc 'F850.5'
+- !lcsh 'Northwestern States -- Description and travel'
+title: Trail Tales
+url: http://www.gutenberg.org/ebooks/30320
